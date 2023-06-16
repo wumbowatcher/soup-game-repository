@@ -1,0 +1,13 @@
+{
+  "default": {
+    "text_speed": 100,
+    "enable_hints": true,
+    "used_hints": 0
+  },
+
+  "game_settings": {
+    "text_speed": 100,
+    "enable_hints": true,
+    "used_hints": 0
+  }
+}
